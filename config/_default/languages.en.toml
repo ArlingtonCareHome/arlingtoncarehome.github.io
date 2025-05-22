@@ -11,6 +11,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "logo_icon.png"
 description = "Arlington Care Home at 2545 Arlington Blvd., El Cerrito, California 94530"
+secondaryLogo = "logo_icon.png"
 
 ["params.author"]
 name = ""
