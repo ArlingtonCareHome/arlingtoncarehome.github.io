@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photo on Arlington Care Home</title>
-    <link>http://localhost:1313/tags/photo/</link>
+    <link>http://localhost:56608/tags/photo/</link>
     <description>Recent content in Photo on Arlington Care Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:56608/tags/photo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Balcony</title>
-      <link>http://localhost:1313/photos-backup/balcony/</link>
+      <link>http://localhost:56608/photos-backup/balcony/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photos-backup/balcony/</guid>
+      <guid>http://localhost:56608/photos-backup/balcony/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photos-backup/balcony/featured-balcony_HD.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56608/photos-backup/balcony/featured-balcony_HD.jpg" />
     </item>
     
     <item>
       <title>Front door</title>
-      <link>http://localhost:1313/photos-backup/frontdoor/</link>
+      <link>http://localhost:56608/photos-backup/frontdoor/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photos-backup/frontdoor/</guid>
+      <guid>http://localhost:56608/photos-backup/frontdoor/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photos-backup/frontdoor/featured-entrance_HD.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56608/photos-backup/frontdoor/featured-entrance_HD.jpg" />
     </item>
     
     <item>
       <title>Kitchen</title>
-      <link>http://localhost:1313/photos-backup/kitchen2/</link>
+      <link>http://localhost:56608/photos-backup/kitchen2/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photos-backup/kitchen2/</guid>
+      <guid>http://localhost:56608/photos-backup/kitchen2/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photos-backup/kitchen2/featured-kitchen2_HD.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56608/photos-backup/kitchen2/featured-kitchen2_HD.jpg" />
     </item>
     
     <item>
       <title>Kitchen/Dining</title>
-      <link>http://localhost:1313/photos-backup/kitchen/</link>
+      <link>http://localhost:56608/photos-backup/kitchen/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photos-backup/kitchen/</guid>
+      <guid>http://localhost:56608/photos-backup/kitchen/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photos-backup/kitchen/featured-kitchen_HD.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:56608/photos-backup/kitchen/featured-kitchen_HD.jpg" />
     </item>
     
   </channel>
